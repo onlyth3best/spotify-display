@@ -1,5 +1,7 @@
 Item,Quantity,Link,Price,Notes
-ESP32 Board,1,LINKKK,PRICEE,none
-1.8 inch TFT display,1,l,p,none
-Tactile Switch,3,l,p,none
-M3 Heatset Inserts,4,l,p,none
+ESP32 Board,1,https://www.aliexpress.com/item/1005006869872479.html,1.71 EUR,none
+1.8 inch TFT display,1,https://www.aliexpress.com/item/1005010626780549.html,7.76 EUR,none
+Tactile Switch,3,https://www.aliexpress.com/item/1005007559876628.html,2.06 EUR, three switches are needed-- the least expensive I could find on these was a group of 20 being sold together.~
+M3 Heatset Inserts,4,https://www.aliexpress.com/item/1005009760789373.html,1.1 EUR,none
+x,x,x,TOTAL: 15.93 EUR,x none
+
