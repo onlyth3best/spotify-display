@@ -12,6 +12,7 @@ a spotify hardware project & the API :DD
 ### setup: (to be edited once I have the physical product!)
 1) In the ArduinoIDE, install the ESP32 board
 2) Install the libraries: SpotifyEsp32 (install as a .zip), Adafruit_ST7735, Adafruit_GFX
+3) upload the code here!!
 
 ### motivation:
 I haven't really used an API before, so I thought combining it into a single project with the help of the Stasis guide would be quite interesting, to say the least!!
