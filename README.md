@@ -14,5 +14,11 @@ a spotify hardware project & the API :DD
 2) Install the libraries: SpotifyEsp32 (install as a .zip), Adafruit_ST7735, Adafruit_GFX
 3) upload the code here!!
 
+How to use:
+- Connect to a power source
+- Change the firmware to reflect your spotify account
+- done!
+- (note: current code may not be 100% functional as I haven't acquired the physical thing yet ;p …)
+
 ### motivation:
 I haven't really used an API before, so I thought combining it into a single project with the help of the Stasis guide would be quite interesting, to say the least!!
